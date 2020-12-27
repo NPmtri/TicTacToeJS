@@ -1,2 +1,2 @@
 # TicTacToeJS
-A website version Tic Tac Toe uses ReactJS.
+A website version Tic Tac Toe using ReactJS.
